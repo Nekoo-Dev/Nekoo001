@@ -28,3 +28,5 @@ Tengo 11 años y soy un desarrollador de software venezolano. Me encanta crear u
 - **Email:** [Tu correo electrónico]
 - **LinkedIn:** [Tu perfil de LinkedIn]
 - **X:** [Tu perfil de Twitter]
+
+(Estaba pensando en que tal vez podría hacer esto como un HTML, y así se vea más estético... Luego investigaré)
