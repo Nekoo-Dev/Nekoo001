@@ -10,7 +10,7 @@ Soy un apasionado desarrollador de software. Me encanta crear un poco de todo y 
 - ⚡ Dato curioso: ...
 
 
-## Habilidades
+## Habilidades:
 
 * Python
 * JavaScript
@@ -18,12 +18,12 @@ Soy un apasionado desarrollador de software. Me encanta crear un poco de todo y 
 * Django
 * SQL
 
-**Proyectos:**
+### Proyectos:
 
 * **Mi proyecto personal:** [Descripción breve y enlace al repositorio]
 * **Contribuciones a open source:** [Lista de proyectos y enlaces]
 
-**Contacto:**
+#### Contacto:
 
 * **Email:** [Tu correo electrónico]
 * **LinkedIn:** [Tu perfil de LinkedIn]
