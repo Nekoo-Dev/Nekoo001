@@ -10,21 +10,20 @@ Soy un desarrollador de software venezolano. Me encanta crear un poco de todo y 
 - ⚡ Dato curioso: ...
 
 
-## Habilidades:
+## Habilidades
 
-* Python
-* JavaScript
-* React
-* Django
-* SQL
+- Python
+- JavaScript
+- React
+- SQL
 
-### Proyectos:
----
-* **Mi proyecto personal:** [Descripción breve y enlace al repositorio]
+# Algunos de mis proyectos:
+ 
+- **Mi proyecto personal:** [Descripción breve y enlace al repositorio]
 * **Contribuciones a open source:** [Lista de proyectos y enlaces]
 
-#### Contacto:
+# Contacto:
 
-* **Email:** [Tu correo electrónico]
-* **LinkedIn:** [Tu perfil de LinkedIn]
-* **X:** [Tu perfil de Twitter]
+- **Email:** [Tu correo electrónico]
+- **LinkedIn:** [Tu perfil de LinkedIn]
+- **X:** [Tu perfil de Twitter]
