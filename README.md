@@ -11,6 +11,7 @@ Soy un apasionado desarrollador de software. Me encanta crear un poco de todo y 
 
 
 ## Habilidades:
+---
 
 * Python
 * JavaScript
