@@ -1,6 +1,6 @@
 # 👋 Hola, soy Neko.
 
-Soy un desarrollador de software venezolano. Me encanta crear un poco de todo y estoy siempre buscando nuevos desafíos.
+Tengo 11 años y soy un desarrollador de software venezolano. Me encanta crear un poco de todo y estoy siempre buscando nuevos desafíos.
 
 - 👀 Estoy interesado en ...
 - 🌱 Actualmente estoy aprendiendo ...
@@ -21,8 +21,7 @@ Soy un desarrollador de software venezolano. Me encanta crear un poco de todo y 
 
 # Mis proyectos:
  
-- **Mi proyecto personal:** [Descripción breve y enlace al repositorio]
-* **Contribuciones a open source:** [Lista de proyectos y enlaces]
+
 
 # 📫 Contacto:
 
