@@ -1,1 +1,1 @@
-# Sólo un gatito tonto haciendo sus cosas.
+Sólo untonto haciendo sus cosas.
